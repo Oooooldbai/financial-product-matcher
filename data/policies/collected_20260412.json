@@ -1,0 +1,66 @@
+{
+  "collected_at": "2026-04-12T16:20:00",
+  "total_count": 30,
+  "categories": {
+    "供应链金融": {
+      "count": 10,
+      "policies": [
+        {
+          "title": "中国银保监会办公厅关于推动供应链金融服务实体经济的指导意见",
+          "document_number": "银保监办发〔2019〕155号",
+          "source": "银保监会",
+          "issued_at": "2019-07-06",
+          "summary": "规范供应链金融业务，严防虚假交易、虚构融资",
+          "key_points": ["严防虚假交易和虚构融资", "加强交易真实性和合规性审查"],
+          "url": "https://www.sohu.com/a/328048883_100086111"
+        },
+        {
+          "title": "银保监会供应链金融155号文",
+          "source": "银保监会",
+          "issued_at": "2020-03-20",
+          "summary": "规范供应链金融业务发展",
+          "url": "http://wlwzwh.chinawuliu.com.cn/gzdt/202003/23/496341.shtml"
+        }
+      ]
+    },
+    "票据": {
+      "count": 10,
+      "policies": [
+        {
+          "title": "票据市场商业汇票业务信息模型规范",
+          "document_number": "JR/T 0306—2024",
+          "source": "中国人民银行",
+          "issued_at": "2024-07-29",
+          "summary": "金融行业标准，规范商业汇票业务信息",
+          "url": "http://www.sinotf.com/GB/kuaixun/2024-08-27/zOMDAwMDM3MTczOQ.html"
+        },
+        {
+          "title": "新一代票据业务系统上线",
+          "source": "上海票据交易所",
+          "issued_at": "2024-01-01",
+          "summary": "推进统一票据市场建设",
+          "url": "https://m.huipiaozhushou.com/app_news.php?id=3766"
+        }
+      ]
+    },
+    "保理": {
+      "count": 10,
+      "policies": [
+        {
+          "title": "关于加强商业保理企业监督管理的通知",
+          "source": "银保监会",
+          "issued_at": "2019-10-18",
+          "summary": "加强商业保理企业监督管理",
+          "url": "https://jrj.beijing.gov.cn/2024zcwj/gzjsjbmgfxwj2024/202408/t20240820_3778140.html"
+        },
+        {
+          "title": "北京市商业保理公司监督管理办法",
+          "source": "北京市地方金融监督管理局",
+          "issued_at": "2024-09-03",
+          "summary": "规范北京市商业保理公司经营行为",
+          "url": "https://jrj.beijing.gov.cn/2024zcwj/bjszcfg2024/202409/t20240903_3788607.html"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "tavily_api_key": "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",
+  "采集配置": {
+    "产品": {
+      "银行官网采集": {
+        "enabled": true,
+        "delay_seconds": 2
+      },
+      "Tavily搜索": {
+        "enabled": true,
+        "重点银行": ["招商银行", "平安银行", "浦发银行", "中信银行", "浙商银行", "网商银行", "微众银行"]
+      }
+    },
+    "政策": {
+      "coze_web_search": {
+        "enabled": true
+      }
+    }
+  }
+}
